@@ -1,31 +1,201 @@
-,city,cumulative,date,frame,game,player,points,thrown
-0,Eindhoven,19,10-08-2018,1,1,Roy,19,8/
-1,Eindhoven,28,10-08-2018,2,1,Roy,9,9-
-2,Eindhoven,54,10-08-2018,3,1,Roy,26,X 
-3,Eindhoven,74,10-08-2018,4,1,Roy,20,X 
-4,Eindhoven,88,10-08-2018,5,1,Roy,14,6/
-5,Eindhoven,108,10-08-2018,6,1,Roy,20,4/
-6,Eindhoven,126,10-08-2018,7,1,Roy,18,X 
-7,Eindhoven,134,10-08-2018,8,1,Roy,8,8-
-8,Eindhoven,164,10-08-2018,9,1,Roy,30,X 
-9,Eindhoven,194,10-08-2018,10,1,Roy,30,XXX
-10,Eindhoven,19,10-08-2018,1,1,Erik,19,8/
-11,Eindhoven,28,10-08-2018,2,1,Erik,9,9-
-12,Eindhoven,58,10-08-2018,3,1,Erik,30,X 
-13,Eindhoven,88,10-08-2018,4,1,Erik,30,X 
-14,Eindhoven,118,10-08-2018,5,1,Erik,30,X 
-15,Eindhoven,138,10-08-2018,6,1,Erik,20,X 
-16,Eindhoven,158,10-08-2018,7,1,Erik,20,X 
-17,Eindhoven,178,10-08-2018,8,1,Erik,20,-/
-18,Eindhoven,208,10-08-2018,9,1,Erik,30,X 
-19,Eindhoven,238,10-08-2018,10,1,Erik,30,XXX
-20,Eindhoven,19,10-08-2018,1,1,Pim,19,8/
-21,Eindhoven,28,10-08-2018,2,1,Pim,9,9-
-22,Eindhoven,47,10-08-2018,3,1,Pim,19,X 
-23,Eindhoven,56,10-08-2018,4,1,Pim,9,9-
-24,Eindhoven,75,10-08-2018,5,1,Pim,19,X 
-25,Eindhoven,84,10-08-2018,6,1,Pim,9,72
-26,Eindhoven,102,10-08-2018,7,1,Pim,18,X 
-27,Eindhoven,110,10-08-2018,8,1,Pim,8,8-
-28,Eindhoven,140,10-08-2018,9,1,Pim,30,X 
-29,Eindhoven,170,10-08-2018,10,1,Pim,30,XXX
+,player,game,city,date,frame,thrown,points,cumulative
+0,Vlad,1,Eindhoven,10-08-2018,1,9/,17,17
+1,Vlad,1,Eindhoven,10-08-2018,2,7/,16,33
+2,Vlad,1,Eindhoven,10-08-2018,3,63,9,42
+3,Vlad,1,Eindhoven,10-08-2018,4,9/,19,61
+4,Vlad,1,Eindhoven,10-08-2018,5,9-,9,70
+5,Vlad,1,Eindhoven,10-08-2018,6,9/,16,86
+6,Vlad,1,Eindhoven,10-08-2018,7,63,9,95
+7,Vlad,1,Eindhoven,10-08-2018,8,9-,9,104
+8,Vlad,1,Eindhoven,10-08-2018,9,9/,18,122
+9,Vlad,1,Eindhoven,10-08-2018,10,8/9,19,141
+10,Dymytry,1,Eindhoven,10-08-2018,1,X ,19,19
+11,Dymytry,1,Eindhoven,10-08-2018,2,9-,9,28
+12,Dymytry,1,Eindhoven,10-08-2018,3,8/,20,48
+13,Dymytry,1,Eindhoven,10-08-2018,4,X ,19,67
+14,Dymytry,1,Eindhoven,10-08-2018,5,9-,9,76
+15,Dymytry,1,Eindhoven,10-08-2018,6,X ,28,104
+16,Dymytry,1,Eindhoven,10-08-2018,7,X ,18,122
+17,Dymytry,1,Eindhoven,10-08-2018,8,8-,8,130
+18,Dymytry,1,Eindhoven,10-08-2018,9,52,7,137
+19,Dymytry,1,Eindhoven,10-08-2018,10,6/5,15,152
+20,Kaspareski,1,Eindhoven,10-08-2018,1,X ,24,24
+21,Kaspareski,1,Eindhoven,10-08-2018,2,X ,17,41
+22,Kaspareski,1,Eindhoven,10-08-2018,3,43,7,48
+23,Kaspareski,1,Eindhoven,10-08-2018,4,42,6,54
+24,Kaspareski,1,Eindhoven,10-08-2018,5,7-,7,61
+25,Kaspareski,1,Eindhoven,10-08-2018,6,X ,20,81
+26,Kaspareski,1,Eindhoven,10-08-2018,7,9/,10,91
+27,Kaspareski,1,Eindhoven,10-08-2018,8,-/,20,111
+28,Kaspareski,1,Eindhoven,10-08-2018,9,X ,17,128
+29,Kaspareski,1,Eindhoven,10-08-2018,10,7- ,7,135
+30,Don,1,Eindhoven,10-08-2018,1,72,9,9
+31,Don,1,Eindhoven,10-08-2018,2,9/,17,26
+32,Don,1,Eindhoven,10-08-2018,3,7-,7,33
+33,Don,1,Eindhoven,10-08-2018,4,9/,20,53
+34,Don,1,Eindhoven,10-08-2018,5,X ,28,81
+35,Don,1,Eindhoven,10-08-2018,6,X ,19,100
+36,Don,1,Eindhoven,10-08-2018,7,81,9,109
+37,Don,1,Eindhoven,10-08-2018,8,X ,29,138
+38,Don,1,Eindhoven,10-08-2018,9,X ,20,158
+39,Don,1,Eindhoven,10-08-2018,10,9/9,19,177
+40,Brunswick,1,Eindhoven,10-08-2018,1,7-,7,7
+41,Brunswick,1,Eindhoven,10-08-2018,2,X ,18,25
+42,Brunswick,1,Eindhoven,10-08-2018,3,53,8,33
+43,Brunswick,1,Eindhoven,10-08-2018,4,-6,6,39
+44,Brunswick,1,Eindhoven,10-08-2018,5,31,4,43
+45,Brunswick,1,Eindhoven,10-08-2018,6,7/,15,58
+46,Brunswick,1,Eindhoven,10-08-2018,7,54,9,67
+47,Brunswick,1,Eindhoven,10-08-2018,8,9/,18,85
+48,Brunswick,1,Eindhoven,10-08-2018,9,8-,8,93
+49,Brunswick,1,Eindhoven,10-08-2018,10,13 ,4,97
+50,Vlad,2,Eindhoven,10-08-2018,1,81,9,9
+51,Vlad,2,Eindhoven,10-08-2018,2,1/,16,25
+52,Vlad,2,Eindhoven,10-08-2018,3,63,9,34
+53,Vlad,2,Eindhoven,10-08-2018,4,9/,18,52
+54,Vlad,2,Eindhoven,10-08-2018,5,8/,20,72
+55,Vlad,2,Eindhoven,10-08-2018,6,X ,27,99
+56,Vlad,2,Eindhoven,10-08-2018,7,X ,19,118
+57,Vlad,2,Eindhoven,10-08-2018,8,72,9,127
+58,Vlad,2,Eindhoven,10-08-2018,9,51,6,133
+59,Vlad,2,Eindhoven,10-08-2018,10,9- ,9,142
+60,Dymytry,2,Eindhoven,10-08-2018,1,9/,11,11
+61,Dymytry,2,Eindhoven,10-08-2018,2,18,9,20
+62,Dymytry,2,Eindhoven,10-08-2018,3,X ,19,39
+63,Dymytry,2,Eindhoven,10-08-2018,4,9-,9,48
+64,Dymytry,2,Eindhoven,10-08-2018,5,3-,3,51
+65,Dymytry,2,Eindhoven,10-08-2018,6,33,6,57
+66,Dymytry,2,Eindhoven,10-08-2018,7,9-,9,66
+67,Dymytry,2,Eindhoven,10-08-2018,8,33,6,72
+68,Dymytry,2,Eindhoven,10-08-2018,9,8-,8,80
+69,Dymytry,2,Eindhoven,10-08-2018,10,7- ,7,87
+70,Kaspareski,2,Eindhoven,10-08-2018,1,9/,13,13
+71,Kaspareski,2,Eindhoven,10-08-2018,2,3/,19,32
+72,Kaspareski,2,Eindhoven,10-08-2018,3,9/,20,52
+73,Kaspareski,2,Eindhoven,10-08-2018,4,X ,19,71
+74,Kaspareski,2,Eindhoven,10-08-2018,5,72,9,80
+75,Kaspareski,2,Eindhoven,10-08-2018,6,8-,8,88
+76,Kaspareski,2,Eindhoven,10-08-2018,7,9/,17,105
+77,Kaspareski,2,Eindhoven,10-08-2018,8,72,9,114
+78,Kaspareski,2,Eindhoven,10-08-2018,9,72,9,123
+79,Kaspareski,2,Eindhoven,10-08-2018,10,X1-,11,134
+80,Don,2,Eindhoven,10-08-2018,1,9-,9,9
+81,Don,2,Eindhoven,10-08-2018,2,62,8,17
+82,Don,2,Eindhoven,10-08-2018,3,9/,12,29
+83,Don,2,Eindhoven,10-08-2018,4,25,7,36
+84,Don,2,Eindhoven,10-08-2018,5,18,9,45
+85,Don,2,Eindhoven,10-08-2018,6,X ,29,74
+86,Don,2,Eindhoven,10-08-2018,7,X ,19,93
+87,Don,2,Eindhoven,10-08-2018,8,9-,9,102
+88,Don,2,Eindhoven,10-08-2018,9,71,8,110
+89,Don,2,Eindhoven,10-08-2018,10,81 ,9,119
+90,Brunswick,2,Eindhoven,10-08-2018,1,43,7,7
+91,Brunswick,2,Eindhoven,10-08-2018,2,9-,9,16
+92,Brunswick,2,Eindhoven,10-08-2018,3,6-,6,22
+93,Brunswick,2,Eindhoven,10-08-2018,4,X ,20,42
+94,Brunswick,2,Eindhoven,10-08-2018,5,3/,16,58
+95,Brunswick,2,Eindhoven,10-08-2018,6,63,9,67
+96,Brunswick,2,Eindhoven,10-08-2018,7,31,4,71
+97,Brunswick,2,Eindhoven,10-08-2018,8,71,8,79
+98,Brunswick,2,Eindhoven,10-08-2018,9,9-,9,88
+99,Brunswick,2,Eindhoven,10-08-2018,10,-7 ,7,95
+100,Vlad,3,Eindhoven,10-08-2018,1,X ,20,20
+101,Vlad,3,Eindhoven,10-08-2018,2,7/,17,37
+102,Vlad,3,Eindhoven,10-08-2018,3,71,8,45
+103,Vlad,3,Eindhoven,10-08-2018,4,X ,18,63
+104,Vlad,3,Eindhoven,10-08-2018,5,8-,8,71
+105,Vlad,3,Eindhoven,10-08-2018,6,8/,19,90
+106,Vlad,3,Eindhoven,10-08-2018,7,9/,20,110
+107,Vlad,3,Eindhoven,10-08-2018,8,X ,26,136
+108,Vlad,3,Eindhoven,10-08-2018,9,X ,16,152
+109,Vlad,3,Eindhoven,10-08-2018,10,6- ,6,158
+110,Dymytry,3,Eindhoven,10-08-2018,1,61,7,7
+111,Dymytry,3,Eindhoven,10-08-2018,2,X ,27,34
+112,Dymytry,3,Eindhoven,10-08-2018,3,X ,19,53
+113,Dymytry,3,Eindhoven,10-08-2018,4,72,9,62
+114,Dymytry,3,Eindhoven,10-08-2018,5,8/,20,82
+115,Dymytry,3,Eindhoven,10-08-2018,6,X ,20,102
+116,Dymytry,3,Eindhoven,10-08-2018,7,9/,16,118
+117,Dymytry,3,Eindhoven,10-08-2018,8,6/,17,135
+118,Dymytry,3,Eindhoven,10-08-2018,9,7/,19,154
+119,Dymytry,3,Eindhoven,10-08-2018,10,9/8,18,172
+120,Kaspareski,3,Eindhoven,10-08-2018,1,9-,9,9
+121,Kaspareski,3,Eindhoven,10-08-2018,2,63,9,18
+122,Kaspareski,3,Eindhoven,10-08-2018,3,7-,7,25
+123,Kaspareski,3,Eindhoven,10-08-2018,4,81,9,34
+124,Kaspareski,3,Eindhoven,10-08-2018,5,71,8,42
+125,Kaspareski,3,Eindhoven,10-08-2018,6,8-,8,50
+126,Kaspareski,3,Eindhoven,10-08-2018,7,9/,18,68
+127,Kaspareski,3,Eindhoven,10-08-2018,8,8/,17,85
+128,Kaspareski,3,Eindhoven,10-08-2018,9,7-,7,92
+129,Kaspareski,3,Eindhoven,10-08-2018,10,34 ,7,99
+130,Don,3,Eindhoven,10-08-2018,1,X ,19,19
+131,Don,3,Eindhoven,10-08-2018,2,81,9,28
+132,Don,3,Eindhoven,10-08-2018,3,7-,7,35
+133,Don,3,Eindhoven,10-08-2018,4,8-,8,43
+134,Don,3,Eindhoven,10-08-2018,5,81,9,52
+135,Don,3,Eindhoven,10-08-2018,6,27,9,61
+136,Don,3,Eindhoven,10-08-2018,7,8-,8,69
+137,Don,3,Eindhoven,10-08-2018,8,9/,18,87
+138,Don,3,Eindhoven,10-08-2018,9,8-,8,95
+139,Don,3,Eindhoven,10-08-2018,10,34 ,7,102
+140,Brunswick,3,Eindhoven,10-08-2018,1,2-,2,2
+141,Brunswick,3,Eindhoven,10-08-2018,2,4-,4,6
+142,Brunswick,3,Eindhoven,10-08-2018,3,7-,7,13
+143,Brunswick,3,Eindhoven,10-08-2018,4,-/,16,29
+144,Brunswick,3,Eindhoven,10-08-2018,5,6-,6,35
+145,Brunswick,3,Eindhoven,10-08-2018,6,--,0,35
+146,Brunswick,3,Eindhoven,10-08-2018,7,9/,18,53
+147,Brunswick,3,Eindhoven,10-08-2018,8,81,9,62
+148,Brunswick,3,Eindhoven,10-08-2018,9,8-,8,70
+149,Brunswick,3,Eindhoven,10-08-2018,10,-72,9,79
+150,Vlad,4,Eindhoven,10-08-2018,1,81,9,9
+151,Vlad,4,Eindhoven,10-08-2018,2,7/,14,23
+152,Vlad,4,Eindhoven,10-08-2018,3,4/,15,38
+153,Vlad,4,Eindhoven,10-08-2018,4,54,9,47
+154,Vlad,4,Eindhoven,10-08-2018,5,9-,9,56
+155,Vlad,4,Eindhoven,10-08-2018,6,36,9,65
+156,Vlad,4,Eindhoven,10-08-2018,7,X ,30,95
+157,Vlad,4,Eindhoven,10-08-2018,8,X ,27,122
+158,Vlad,4,Eindhoven,10-08-2018,9,X ,18,140
+159,Vlad,4,Eindhoven,10-08-2018,10,71 ,8,148
+160,Dymytry,4,Eindhoven,10-08-2018,1,9/,19,19
+161,Dymytry,4,Eindhoven,10-08-2018,2,9/,19,38
+162,Dymytry,4,Eindhoven,10-08-2018,3,9/,16,54
+163,Dymytry,4,Eindhoven,10-08-2018,4,62,8,62
+164,Dymytry,4,Eindhoven,10-08-2018,5,X ,20,82
+165,Dymytry,4,Eindhoven,10-08-2018,6,6/,11,93
+166,Dymytry,4,Eindhoven,10-08-2018,7,16,7,100
+167,Dymytry,4,Eindhoven,10-08-2018,8,61,7,107
+168,Dymytry,4,Eindhoven,10-08-2018,9,9/,18,125
+169,Dymytry,4,Eindhoven,10-08-2018,10,8/7,17,142
+170,Kaspareski,4,Eindhoven,10-08-2018,1,71,8,8
+171,Kaspareski,4,Eindhoven,10-08-2018,2,7/,19,27
+172,Kaspareski,4,Eindhoven,10-08-2018,3,9-,9,36
+173,Kaspareski,4,Eindhoven,10-08-2018,4,9-,9,45
+174,Kaspareski,4,Eindhoven,10-08-2018,5,X ,13,58
+175,Kaspareski,4,Eindhoven,10-08-2018,6,12,3,61
+176,Kaspareski,4,Eindhoven,10-08-2018,7,8/,14,75
+177,Kaspareski,4,Eindhoven,10-08-2018,8,44,8,83
+178,Kaspareski,4,Eindhoven,10-08-2018,9,44,8,91
+179,Kaspareski,4,Eindhoven,10-08-2018,10,8- ,8,99
+180,Don,4,Eindhoven,10-08-2018,1,9/,15,15
+181,Don,4,Eindhoven,10-08-2018,2,53,8,23
+182,Don,4,Eindhoven,10-08-2018,3,61,7,30
+183,Don,4,Eindhoven,10-08-2018,4,X ,19,49
+184,Don,4,Eindhoven,10-08-2018,5,72,9,58
+185,Don,4,Eindhoven,10-08-2018,6,81,9,67
+186,Don,4,Eindhoven,10-08-2018,7,X ,20,87
+187,Don,4,Eindhoven,10-08-2018,8,9/,19,106
+188,Don,4,Eindhoven,10-08-2018,9,9/,18,124
+189,Don,4,Eindhoven,10-08-2018,10,8/8,18,142
+190,Brunswick,4,Eindhoven,10-08-2018,1,X ,19,19
+191,Brunswick,4,Eindhoven,10-08-2018,2,72,9,28
+192,Brunswick,4,Eindhoven,10-08-2018,3,X ,18,46
+193,Brunswick,4,Eindhoven,10-08-2018,4,71,8,54
+194,Brunswick,4,Eindhoven,10-08-2018,5,X ,16,70
+195,Brunswick,4,Eindhoven,10-08-2018,6,51,6,76
+196,Brunswick,4,Eindhoven,10-08-2018,7,5-,5,81
+197,Brunswick,4,Eindhoven,10-08-2018,8,X ,20,101
+198,Brunswick,4,Eindhoven,10-08-2018,9,8/,20,121
+199,Brunswick,4,Eindhoven,10-08-2018,10,XX9,29,150
