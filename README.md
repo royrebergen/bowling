@@ -13,7 +13,7 @@ Winner of the day is the person with the least amount of points collected.
 Most strikes thrown  
 Most spares thrown  
 Most 'Rotterdammertjes':  
->  First throw a gutter ball (0), next won a spare (10).  
+>  First throw a gutter ball (0), next one a spare (10).  
 >  010 is the area code of the city of Rotterdam in the Netherlands.  
 
 Beerframes -- When all players, except one, throw a strike. The loser has to buy shots.
