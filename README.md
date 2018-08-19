@@ -3,6 +3,9 @@ Bowling
 
 Bowling team goes bowling every 6 weeks and processes it scores.
 
+![Bowling Team](http://s1.1zoom.me/big3/548/Men_Bowling_competition_439486.jpg)
+
+
 ### Winner
 
 Winner of a game gets 1 point, number two 2 points ect.  
